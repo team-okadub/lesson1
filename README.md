@@ -1,3 +1,1 @@
-# lesson1  テストだよ。
-GITについてわかってきたぞ！！いえーーーい
-
+# lesson1  OKOKOKOKOKO
